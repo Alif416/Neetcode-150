@@ -5,10 +5,12 @@ A collection of Neetcode 150 Problems
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Alif416/Neetcode-150/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Alif416/Neetcode-150/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Alif416/Neetcode-150/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Alif416/Neetcode-150/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -17,6 +19,7 @@ A collection of Neetcode 150 Problems
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Alif416/Neetcode-150/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Alif416/Neetcode-150/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
