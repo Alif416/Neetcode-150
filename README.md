@@ -37,4 +37,12 @@ A collection of Neetcode 150 Problems
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Alif416/Neetcode-150/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/Alif416/Neetcode-150/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/Alif416/Neetcode-150/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
