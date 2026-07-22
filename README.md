@@ -12,6 +12,7 @@ A collection of Neetcode 150 Problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Alif416/Neetcode-150/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Alif416/Neetcode-150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Alif416/Neetcode-150/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -21,6 +22,7 @@ A collection of Neetcode 150 Problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Alif416/Neetcode-150/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Alif416/Neetcode-150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Alif416/Neetcode-150/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -67,4 +69,8 @@ A collection of Neetcode 150 Problems
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Alif416/Neetcode-150/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Alif416/Neetcode-150/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
