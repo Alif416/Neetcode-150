@@ -58,6 +58,7 @@ A collection of Neetcode 150 Problems
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Alif416/Neetcode-150/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/Alif416/Neetcode-150/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Alif416/Neetcode-150/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/Alif416/Neetcode-150/tree/master/0287-find-the-duplicate-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Alif416/Neetcode-150/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -81,6 +82,7 @@ A collection of Neetcode 150 Problems
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Alif416/Neetcode-150/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Alif416/Neetcode-150/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Alif416/Neetcode-150/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
