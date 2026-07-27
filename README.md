@@ -8,6 +8,7 @@ A collection of Neetcode 150 Problems
 | [0001-two-sum](https://github.com/Alif416/Neetcode-150/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Alif416/Neetcode-150/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Alif416/Neetcode-150/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alif416/Neetcode-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Alif416/Neetcode-150/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Alif416/Neetcode-150/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Alif416/Neetcode-150/tree/master/0287-find-the-duplicate-number) |
@@ -74,6 +75,7 @@ A collection of Neetcode 150 Problems
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alif416/Neetcode-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Alif416/Neetcode-150/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
