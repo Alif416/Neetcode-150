@@ -56,6 +56,7 @@ A collection of Neetcode 150 Problems
 | ------- |
 | [0086-partition-list](https://github.com/Alif416/Neetcode-150/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Alif416/Neetcode-150/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Alif416/Neetcode-150/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Alif416/Neetcode-150/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -74,6 +75,7 @@ A collection of Neetcode 150 Problems
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Alif416/Neetcode-150/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Alif416/Neetcode-150/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
 | ------- |
