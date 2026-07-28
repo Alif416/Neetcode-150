@@ -7,6 +7,7 @@ A collection of Neetcode 150 Problems
 | ------- |
 | [0001-two-sum](https://github.com/Alif416/Neetcode-150/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Alif416/Neetcode-150/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Alif416/Neetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Alif416/Neetcode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alif416/Neetcode-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Alif416/Neetcode-150/tree/master/0217-contains-duplicate) |
@@ -96,4 +97,8 @@ A collection of Neetcode 150 Problems
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Alif416/Neetcode-150/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Alif416/Neetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
