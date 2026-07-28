@@ -21,6 +21,7 @@ A collection of Neetcode 150 Problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/Alif416/Neetcode-150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Alif416/Neetcode-150/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Alif416/Neetcode-150/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Alif416/Neetcode-150/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Alif416/Neetcode-150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Alif416/Neetcode-150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Alif416/Neetcode-150/tree/master/0347-top-k-frequent-elements) |
@@ -56,6 +57,7 @@ A collection of Neetcode 150 Problems
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Alif416/Neetcode-150/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/Alif416/Neetcode-150/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/Alif416/Neetcode-150/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Alif416/Neetcode-150/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Alif416/Neetcode-150/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Alif416/Neetcode-150/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -64,6 +66,7 @@ A collection of Neetcode 150 Problems
 | ------- |
 | [0086-partition-list](https://github.com/Alif416/Neetcode-150/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Alif416/Neetcode-150/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Alif416/Neetcode-150/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Alif416/Neetcode-150/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/Alif416/Neetcode-150/tree/master/0287-find-the-duplicate-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Alif416/Neetcode-150/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
