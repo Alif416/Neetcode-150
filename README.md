@@ -55,6 +55,7 @@ A collection of Neetcode 150 Problems
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Alif416/Neetcode-150/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Alif416/Neetcode-150/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/Alif416/Neetcode-150/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Alif416/Neetcode-150/tree/master/0141-linked-list-cycle) |
@@ -64,6 +65,7 @@ A collection of Neetcode 150 Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Alif416/Neetcode-150/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/Alif416/Neetcode-150/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Alif416/Neetcode-150/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Alif416/Neetcode-150/tree/master/0141-linked-list-cycle) |
