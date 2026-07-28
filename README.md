@@ -54,6 +54,7 @@ A collection of Neetcode 150 Problems
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Alif416/Neetcode-150/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/Alif416/Neetcode-150/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Alif416/Neetcode-150/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Alif416/Neetcode-150/tree/master/0206-reverse-linked-list) |
@@ -74,6 +75,7 @@ A collection of Neetcode 150 Problems
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Alif416/Neetcode-150/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Alif416/Neetcode-150/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Alif416/Neetcode-150/tree/master/0206-reverse-linked-list) |
 ## Binary Search
