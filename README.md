@@ -31,6 +31,7 @@ A collection of Neetcode 150 Problems
 | [0217-contains-duplicate](https://github.com/Alif416/Neetcode-150/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Alif416/Neetcode-150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Alif416/Neetcode-150/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Alif416/Neetcode-150/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Alif416/Neetcode-150/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -55,6 +56,7 @@ A collection of Neetcode 150 Problems
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Alif416/Neetcode-150/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Alif416/Neetcode-150/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Alif416/Neetcode-150/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
@@ -117,6 +119,7 @@ A collection of Neetcode 150 Problems
 | [0125-valid-palindrome](https://github.com/Alif416/Neetcode-150/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Alif416/Neetcode-150/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Alif416/Neetcode-150/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Alif416/Neetcode-150/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Alif416/Neetcode-150/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
