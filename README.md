@@ -10,6 +10,7 @@ A collection of Neetcode 150 Problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alif416/Neetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Alif416/Neetcode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alif416/Neetcode-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alif416/Neetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Alif416/Neetcode-150/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Alif416/Neetcode-150/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Alif416/Neetcode-150/tree/master/0287-find-the-duplicate-number) |
@@ -70,6 +71,7 @@ A collection of Neetcode 150 Problems
 | [0125-valid-palindrome](https://github.com/Alif416/Neetcode-150/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Alif416/Neetcode-150/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Alif416/Neetcode-150/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alif416/Neetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Alif416/Neetcode-150/tree/master/0287-find-the-duplicate-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Alif416/Neetcode-150/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -87,6 +89,7 @@ A collection of Neetcode 150 Problems
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alif416/Neetcode-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alif416/Neetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Alif416/Neetcode-150/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
