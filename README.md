@@ -6,6 +6,7 @@ A collection of Neetcode 150 Problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Alif416/Neetcode-150/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Alif416/Neetcode-150/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Alif416/Neetcode-150/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alif416/Neetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Alif416/Neetcode-150/tree/master/0128-longest-consecutive-sequence) |
@@ -66,6 +67,7 @@ A collection of Neetcode 150 Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Alif416/Neetcode-150/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Alif416/Neetcode-150/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/Alif416/Neetcode-150/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Alif416/Neetcode-150/tree/master/0125-valid-palindrome) |
@@ -121,4 +123,8 @@ A collection of Neetcode 150 Problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Alif416/Neetcode-150/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Alif416/Neetcode-150/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
