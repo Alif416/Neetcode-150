@@ -151,9 +151,15 @@ A collection of Neetcode 150 Problems
 | ------- |
 | [0007-reverse-integer](https://github.com/Alif416/Neetcode-150/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Alif416/Neetcode-150/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/Alif416/Neetcode-150/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Alif416/Neetcode-150/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Alif416/Neetcode-150/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Alif416/Neetcode-150/tree/master/0412-fizz-buzz) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Alif416/Neetcode-150/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
