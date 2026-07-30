@@ -107,6 +107,7 @@ A collection of Neetcode 150 Problems
 | [0035-search-insert-position](https://github.com/Alif416/Neetcode-150/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alif416/Neetcode-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alif416/Neetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Alif416/Neetcode-150/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Alif416/Neetcode-150/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -166,4 +167,8 @@ A collection of Neetcode 150 Problems
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Alif416/Neetcode-150/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Alif416/Neetcode-150/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
