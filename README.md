@@ -72,6 +72,7 @@ A collection of Neetcode 150 Problems
 | [0086-partition-list](https://github.com/Alif416/Neetcode-150/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Alif416/Neetcode-150/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Alif416/Neetcode-150/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/Alif416/Neetcode-150/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Alif416/Neetcode-150/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Alif416/Neetcode-150/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -100,6 +101,7 @@ A collection of Neetcode 150 Problems
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Alif416/Neetcode-150/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Alif416/Neetcode-150/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/Alif416/Neetcode-150/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Alif416/Neetcode-150/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
