@@ -10,6 +10,7 @@ A collection of Neetcode 150 Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Alif416/Neetcode-150/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Alif416/Neetcode-150/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Alif416/Neetcode-150/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Alif416/Neetcode-150/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alif416/Neetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Alif416/Neetcode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Alif416/Neetcode-150/tree/master/0136-single-number) |
@@ -151,6 +152,7 @@ A collection of Neetcode 150 Problems
 | ------- |
 | [0007-reverse-integer](https://github.com/Alif416/Neetcode-150/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Alif416/Neetcode-150/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Alif416/Neetcode-150/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Alif416/Neetcode-150/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Alif416/Neetcode-150/tree/master/0412-fizz-buzz) |
 ## Simulation
