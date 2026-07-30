@@ -121,6 +121,7 @@ A collection of Neetcode 150 Problems
 | [0344-reverse-string](https://github.com/Alif416/Neetcode-150/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Alif416/Neetcode-150/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Alif416/Neetcode-150/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Alif416/Neetcode-150/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,4 +146,12 @@ A collection of Neetcode 150 Problems
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Alif416/Neetcode-150/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Alif416/Neetcode-150/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Alif416/Neetcode-150/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
