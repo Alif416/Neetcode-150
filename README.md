@@ -149,6 +149,7 @@ A collection of Neetcode 150 Problems
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Alif416/Neetcode-150/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/Alif416/Neetcode-150/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
