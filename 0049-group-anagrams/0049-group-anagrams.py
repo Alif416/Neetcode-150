@@ -1,12 +1,10 @@
+from collections import defaultdict
+
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        res=[]
-        hashmap={}
-        for i in range(len(strs)):
-            s=strs[i]
-            s=''.join(sorted(s))
-            if s not in hashmap:
-                hashmap[s]=len(res)
-                res.append([])
-            res[hashmap[s]].append(strs[i])
-        return res        
+        groups=defaultdict(list)
+        for word in strs:
+            key=''.join(sorted(word))
+            groups[key].append(word)
+        return list(groups.values())
+                
