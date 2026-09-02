@@ -97,6 +97,7 @@ A collection of Neetcode 150 Problems
 | [0020-valid-parentheses](https://github.com/Alif416/Neetcode-150/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Alif416/Neetcode-150/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Alif416/Neetcode-150/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Alif416/Neetcode-150/tree/master/0155-min-stack) |
 ## Recursion
 |  |
 | ------- |
@@ -207,4 +208,8 @@ A collection of Neetcode 150 Problems
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Alif416/Neetcode-150/tree/master/0032-longest-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Alif416/Neetcode-150/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
