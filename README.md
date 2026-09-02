@@ -95,6 +95,7 @@ A collection of Neetcode 150 Problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Alif416/Neetcode-150/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Alif416/Neetcode-150/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Alif416/Neetcode-150/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
@@ -121,6 +122,7 @@ A collection of Neetcode 150 Problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Alif416/Neetcode-150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Alif416/Neetcode-150/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Alif416/Neetcode-150/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Alif416/Neetcode-150/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Alif416/Neetcode-150/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Alif416/Neetcode-150/tree/master/0242-valid-anagram) |
@@ -139,6 +141,7 @@ A collection of Neetcode 150 Problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Alif416/Neetcode-150/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alif416/Neetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
@@ -200,4 +203,8 @@ A collection of Neetcode 150 Problems
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Alif416/Neetcode-150/tree/master/0572-subtree-of-another-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Alif416/Neetcode-150/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
