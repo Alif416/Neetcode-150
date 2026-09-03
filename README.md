@@ -15,6 +15,7 @@ A collection of Neetcode 150 Problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alif416/Neetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Alif416/Neetcode-150/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Alif416/Neetcode-150/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Alif416/Neetcode-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alif416/Neetcode-150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Alif416/Neetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Alif416/Neetcode-150/tree/master/0217-contains-duplicate) |
@@ -97,6 +98,7 @@ A collection of Neetcode 150 Problems
 | [0020-valid-parentheses](https://github.com/Alif416/Neetcode-150/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Alif416/Neetcode-150/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Alif416/Neetcode-150/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Alif416/Neetcode-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Alif416/Neetcode-150/tree/master/0155-min-stack) |
 ## Recursion
 |  |
@@ -162,6 +164,7 @@ A collection of Neetcode 150 Problems
 | [0007-reverse-integer](https://github.com/Alif416/Neetcode-150/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Alif416/Neetcode-150/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Alif416/Neetcode-150/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Alif416/Neetcode-150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Alif416/Neetcode-150/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Alif416/Neetcode-150/tree/master/0412-fizz-buzz) |
 ## Simulation
