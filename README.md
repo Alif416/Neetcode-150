@@ -210,6 +210,7 @@ A collection of Neetcode 150 Problems
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Alif416/Neetcode-150/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Alif416/Neetcode-150/tree/master/0032-longest-valid-parentheses) |
 ## Design
 |  |
