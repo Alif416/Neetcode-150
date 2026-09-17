@@ -1,25 +1,17 @@
-from collections import deque
-
 class Solution:
     def isValid(self, s: str) -> bool:
-        my_dict = {
-            "}": "{",
-            ")": "(",
-            "]": "["
-        }
-
-        stack = deque()
+        hashmap = {')': '(', '}': '{', ']': '['}
+        stack = []
 
         for ch in s:
-            if ch in "({[":
+            if ch in '({[':
                 stack.append(ch)
-            else:
+            elif ch in ')}]':
                 if not stack:
                     return False
 
                 e = stack.pop()
-
-                if my_dict[ch] != e:
+                if e != hashmap[ch]:
                     return False
 
-        return len(stack) == 0
+        return not stack
